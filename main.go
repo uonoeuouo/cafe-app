@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cafe-app/config"
-	"cafe-app/routes"
+	"cafe-app/cafe-backend/config"
+	"cafe-app/cafe-backend/routes"
 
 	"github.com/gin-gonic/gin"
 )

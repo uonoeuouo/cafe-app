@@ -1,7 +1,7 @@
 package config
 
 import (
-	"cafe-app/models"
+	"cafe-app/cafe-backend/models"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

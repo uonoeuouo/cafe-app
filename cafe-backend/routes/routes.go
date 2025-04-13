@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"cafe-app/controllers"
+	"cafe-app/cafe-backend/controllers"
 
 	"github.com/gin-gonic/gin"
 )

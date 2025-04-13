@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"cafe-app/config"
-	"cafe-app/models"
+	"cafe-app/cafe-backend/config"
+	"cafe-app/cafe-backend/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
