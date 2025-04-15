@@ -31,6 +31,10 @@ export default function CafeList() {
               <strong>{cafe.Name}</strong><br />
               Address: {cafe.Address}<br />
               Location: ({cafe.Latitude}, {cafe.Longitude})
+              Wi-fi: {cafe.HasWifi ? "Yes" : "No"}<br />
+              Power: {cafe.HasPower ? "Yes" : "No"}<br />
+              Ambience: {cafe.Ambience}<br />
+              Ambience: {cafe.AudienceAge}
             </li>
           ))}
         </ul>
